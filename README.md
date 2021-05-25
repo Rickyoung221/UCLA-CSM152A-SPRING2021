@@ -3,7 +3,7 @@ UCLA CSM152A SPRING2021 LAB6. Instructor 徐老师
 
 | Project# | Grade |
 | -------- | ----- |
-| 0 - Introduciton       | 100   |
+| 0 - 4-bit Counter & Clock Divider       | 100   |
 | 1 - Floating Point Conversion     | 100   |
 | 2 - Clock Design Methodology  | 100   |
 | 3 - Vending Machine       |       |
