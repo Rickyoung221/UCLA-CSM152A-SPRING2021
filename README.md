@@ -9,4 +9,6 @@ UCLA CSM152A SPRING2021 LAB6. Instructor 徐老师
 | 3 - Vending Machine       |       |
 | 4 - Parking Meter |       |
 
-The code is just for viewing. If they helps, please star this repository. It will be grateful. 😄
+The code is just for view, please do not directly copy them. 
+
+If they helps, please star this repository. It will be grateful. 😄
