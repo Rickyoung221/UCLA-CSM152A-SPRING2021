@@ -1,5 +1,6 @@
 # CSM152A-SPRING21
-UCLA CSM152A SPRING2021 LAB6. Instructor 徐老师
+These are my project solutions for UCLA CSM152A during SPRING2021 LAB6. 
+Instructor: TA:徐老师
 
 | Project# | Grade |
 | -------- | ----- |
