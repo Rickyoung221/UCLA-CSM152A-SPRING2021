@@ -4,10 +4,10 @@ Instructor: TA:徐老师
 
 | Project# | Grade |
 | -------- | ----- |
-| 0 - 4-bit Counter & Clock Divider       | 100   |
-| 1 - Floating Point Conversion     | 100   |
-| 2 - Clock Design Methodology  | 100   |
-| 3 - Vending Machine       |       |
+| 0 - 4-bit Counter & Clock Divider       | 100/100   |
+| 1 - Floating Point Conversion     | 100/100   |
+| 2 - Clock Design Methodology  | 100/100   |
+| 3 - Vending Machine       |     100/100  |
 | 4 - Parking Meter |       |
 
 The code is just for view, please do not directly copy them. 
