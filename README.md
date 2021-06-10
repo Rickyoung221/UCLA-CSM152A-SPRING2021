@@ -8,7 +8,7 @@ Instructor: TA:徐老师
 | 1 - Floating Point Conversion     | 100/100   |
 | 2 - Clock Design Methodology  | 100/100   |
 | 3 - Vending Machine       |     100/100  |
-| 4 - Parking Meter |       |
+| 4 - Parking Meter |   100/100    |
 
 The code is just for view, please do not directly copy them. 
 
