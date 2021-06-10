@@ -10,6 +10,8 @@ Instructor: TA:徐老师
 | 3 - Vending Machine       |     100/100  |
 | 4 - Parking Meter |   100/100    |
 
+Grade Receivec: A+ 
+
 The code is just for view, please do not directly copy them. 
 
 If they helps, please star this repository. It will be grateful. 😄
