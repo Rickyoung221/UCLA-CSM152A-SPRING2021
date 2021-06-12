@@ -12,6 +12,6 @@ Instructor: TA:徐老师
 
 Grade Receivec: A+ 
 
-The code is just for view, please do not directly copy them. 
+The code is just for view, please do not directly copy them. Please use it in your own risk.
 
 If they helps, please star this repository. It will be grateful. 😄
