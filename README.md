@@ -14,4 +14,4 @@ Grade Receivec: A+
 
 The code is just for view, please do not directly copy them. Please use it in your own risk.
 
-If they helps, please star this repository. It will be grateful. 😄
+If they helps, please star and fork this repository. It will be grateful. 😄
