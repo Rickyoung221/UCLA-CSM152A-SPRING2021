@@ -1,6 +1,6 @@
 # CSM152A-SPRING21
-These are my project solutions for UCLA CSM152A during SPRING2021 LAB6. 
-Instructor: TA:徐老师
+These are my project solutions for UCLA CSM152A during SPRING2021 at LAB6. 
+Instructor: TA: 徐老师 Law
 
 | Project# | Grade |
 | -------- | ----- |
@@ -10,8 +10,8 @@ Instructor: TA:徐老师
 | 3 - Vending Machine       |     100/100  |
 | 4 - Parking Meter |   100/100    |
 
-Grade Receivec: A+ 
+Grade Received: A+ 
 
 The code is just for view, please do not directly copy them. Please use it in your own risk.
 
-If they helps, please star and fork this repository. It will be grateful. 😄
+If they help, please star this repository. I will be grateful. 😄
